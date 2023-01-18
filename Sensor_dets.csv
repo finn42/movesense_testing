@@ -1,0 +1,13 @@
+Date,Session,Person,Sensor,Sensor Data,Sr (Hz),Recording Device,Sensor ID,Device ID,Notes
+2023-01-10,"Berit, Day 1",Audience,Movesense,ECG,512,"Android version 9, 1.1 One UI, Galaxy A10_07, Movesense Showcase App 1.9.13",577,A10_07,App stopped recording after phones were given to participant
+2023-01-10,"Berit, Day 1",Audience,Movesense,ECG,512,"Android version 9, 1.1 One UI, Galaxy A10_09, Movesense Showcase App 1.9.13",576,A10_09,App stopped recording after phones were given to participant
+2023-01-10,"Berit, Day 1",Audience,Movesense,Lin Acc/Heart Rate/Ecg,104/n.a./125,"iPhone 10 Pro, OS version 16.1.1, Movesense Showcase App 1.1.0",620,Kaylas iPhone,"Went to bathroom to attach sensor, looks like bad placement,"
+2023-01-10,"Berit, Day 1",Audience,Movesense,Lin Acc/Heart Rate/Ecg,104/n.a./512,"iPhone 10 Pro, OS version 16.1.1, Movesense Showcase App 1.1.0",593,Kaylas iPhone,
+2023-01-11,"Berit, Day 2",Audience,Movesense,Lin Acc/Heart Rate/ECG,104/n.a./512,"iPhone 10 Pro, OS version 16.1.1, Movesense Showcase App 1.1.0",510,Kayla's iPhone,Disconnected during end baseline (quiet time at end)
+2023-01-11,"Berit, Day 2",Audience,Movesense,Lin Acc/Heart Rate/ECG,104/n.a./512,"iPhone 10 Pro, OS version 16.1.1, Movesense Showcase App 1.1.0",551,Kayla's iPhone,Data for 551 might look strange during end baseline as disconnection of 510 might have affected it in some way
+2023-01-11,"Berit, Day 1",Performer,Movesense,Lin Acc/Heart Rate/ECG,104/n.a./500,"iPhone 11 Pro, OS version 14.8.1",596,Jonna's iPhone,"Recorded performer, without baselines."
+2023-01-11,"Berit, Day 2",Audience,Movesense,Lin Acc/Heart Rate/ECG,104/n.a./512,"iPhone 11 Pro, OS version 14.8.1,Movesense Showcase App 1.1.0",541,Jonna's iPhone,
+2023-01-11,"Berit, Day 2",Audience,Movesense,Lin Acc/Heart Rate/ECG,104/n.a./512,"iPhone 13 Pro, OS version 16.1.1, Movesense Showcase App 1.1.0",587,Laura's iPhone,"Disconnected when bent over to pick up questionnaire, phone didn't save recording"
+2023-01-11,"Berit, Day 2",Finn,Movesense,Lin Acc,104,"Samgung S22, Android 13, One UI 5.0, Movesense DataLogger Sample V 1.3",599,Finn's Android,"Datalogger, Wifi, turn off"
+2023-01-11,"Berit, Day 2",Hugh,Movesense,Lin Acc,104,"Samsung Galaxy s10, Model Number SM-G973F, Android version 10, Movesense DataLogger Sample V 1.3",622,Hugh's Android,"Datalogger, Wifi, leave on"
+2023-01-11,"Berit, Day 2",Maham,Movesense,Lin Acc,104,"Android version 9, 1.1 One UI, Galaxy A10_10, Movesense Showcase App 1.9.13",555,A10_10,"Showcase, no Wifi "
